@@ -1,0 +1,92 @@
+.text1 {
+	font-family:"Courier New",Courier,monospace
+
+    color: #00FFFF;
+}
+
+.title1 {
+
+	text-align: center;
+}
+.pic
+
+{width: 700px; border-radius: 25% 10%
+;}
+
+h1{
+	color:lightblue;
+}
+
+body {
+	
+	background: linear-gradient(to bottom,#CCE3FF,#0050B0);
+}
+a{
+	font-family:"Courier New",Courier,monospace
+	
+	color:#FF00FF}
+
+p{
+	font-family:"Courier New",Courier,monospace
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+form.form-example {
+    display: table;
+}
+
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+.preference {
+    display: flex;
+    justify-content: space-between;
+    width: 7%;
+    margin: .5rem;
+}
+label {
+    font-family: sans-serif;
+    font-size: 1rem;
+    padding-right: 10px;
+}
+
+select {
+    font-size: .9rem;
+    padding: 2px 5px;
+
+ 
+}
+label,
+textarea {
+    font-size: .8rem;
+    letter-spacing: 1px;
+
+}
+textarea {
+    padding: 10px;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+
+ 
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
